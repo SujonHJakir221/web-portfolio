@@ -1,0 +1,25 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: antiquewhite;
+}
+h1{
+    font-size:  50px;
+}
+.name{
+    color: rgb(243, 169, 73);
+}
+#bbb{
+    color: rgb(243, 169, 73);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 3%;
+}
+.half-width img{
+   padding-top: 10%;
+   padding-bottom: 60%;
+   margin-top: 50px;
+   margin-bottom: 40px;
+}
